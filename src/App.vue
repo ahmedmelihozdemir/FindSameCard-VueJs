@@ -1,8 +1,8 @@
 <template>
-    <nav>
+    <!-- <nav>
         <router-link to="/">Home</router-link>
         <router-link to="/about">About</router-link>
-    </nav>
+    </nav> -->
     <router-view />
 </template>
 
@@ -16,8 +16,8 @@
 }
 
 nav {
-    padding: 30px;
-    background-color: royalblue;
+    padding: 20px;
+    background-color: rgba(7, 34, 211, 0.583);
     a {
         margin: auto 10px;
         font-weight: bold;
