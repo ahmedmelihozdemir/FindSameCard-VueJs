@@ -1,4 +1,5 @@
 # vue-find-same-card
+Select 2 card and check it those cards same card?
 
 ## Project setup
 ```
